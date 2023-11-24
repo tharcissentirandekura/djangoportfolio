@@ -1,0 +1,19 @@
+body{
+    font-size: 24px;
+}
+.identify{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+img{
+
+    position: relative;
+    float: right;
+    border-radius: 50px;
+    left: 70%;
+}
+span{
+    color: rgb(8, 0, 255);
+    font-size: 40px;
+}

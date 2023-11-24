@@ -1,0 +1,15 @@
+
+{% extends "portfolio/layout.html" %}
+{%load static%}
+{% block body %}
+    <link rel="stylesheet" href="{% static 'portfolio/files/home.css' %}">
+    <section class="identify">
+        <div>
+            <h1>My name is Tharcisse</h1>
+            <h2></h2>
+        </div>
+        <div class="image">
+            <img src="{% static 'portfolio/images/myimage.jpeg' %}">
+        </div>
+    </section>
+{% endblock body %}

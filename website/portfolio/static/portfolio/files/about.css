@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(215, 219, 224);
+    
+}
+
+
+.biography{
+    font-size: 25px;
+    background-color:white;
+    color: black;
+    position: absolute;
+    top: 15%;
+    height: 80%;
+    left: 10%;
+    right: 50%; 
+    
+}
+.about-me{
+    position: relative;
+    top: 30px;
+    margin: 10px 10px;
+    text-justify: auto;
+}
