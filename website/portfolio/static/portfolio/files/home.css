@@ -11,11 +11,12 @@ img{
     position: relative;
     float: right;
     border-radius: 50px;
-    left: 70%;
+    left: 60%;
 }
 
 .follow{
     position: absolute;
+    display: inline-block;
     bottom: 40%;
     left: 10%;
 }
