@@ -5,19 +5,24 @@ body{
 
 
 .biography{
-    font-size: 25px;
-    background-color:white;
+    position: relative;
+    font-size: 18px;
+    background-color:white; 
     color: black;
-    position: absolute;
-    top: 15%;
-    height: 80%;
-    left: 10%;
-    right: 50%; 
+    widows: 40%;
+    position: absolute; 
+    padding: 20px 10px 10px 10px;
+    top: auto;
+    border-radius: 10px;
+
+    height: auto;
+    left: 10%; 
+    right: 50%;
     
 }
 .about-me{
     position: relative;
-    top: 30px;
-    margin: 10px 10px;
-    text-justify: auto;
+    margin: 20px 10px 10px 10px;
+    text-align: justify;
+    word-break: break-all;
 }

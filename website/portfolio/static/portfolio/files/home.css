@@ -13,10 +13,9 @@ img{
     border-radius: 50px;
     left: 70%;
 }
-span{
-    position: relative;
-    bottom: 0%;
-    color: rgb(8, 0, 255);
-    font-size: 40px;
+
+.follow{
+    position: absolute;
+    bottom: 40%;
     left: 10%;
 }
